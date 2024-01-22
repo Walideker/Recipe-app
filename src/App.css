@@ -1,6 +1,5 @@
-.App {
 
-}
+
 nav{
   padding-bottom:  10px;
 }
@@ -25,4 +24,11 @@ h1{
   text-align: center;
 margin-bottom: 15px;
   font-weight: bold;
+}
+h4{
+padding-top: 200px;
+font-family: cursive;
+}
+.container{
+  cursor: pointer;
 }
